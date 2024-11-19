@@ -4,11 +4,11 @@
 
 <br />
 <div align="center">
-  <h1 align="center">Tucil 2 - Stima</h1>
+  <h1 align="center">Building Bézier Curves</h1>
 
   <p align="center">
-    <h3> Building Bézier Curves</h3>
-    <h4> Divide and Conquer based Midpoint Algorithm</h4>
+    <h3>Tucil 2 - Stima</h3>
+    <h4>Brute Force & Divide and Conquer based Midpoint Algorithm</h4>
     <br/>
     <a href="https://github.com/NoHaitch/Tucil2_13522078_13522091/issues">Report Bug</a>
     ·
